@@ -56,5 +56,4 @@ public class Menu {
 //            throw new RuntimeException("неверная операция");
 //        }
 
-    }
 }
